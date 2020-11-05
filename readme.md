@@ -62,17 +62,13 @@ At this point, your new app is ready and is all setup for local development.
 
 ## Development
 
-```bash
-npm start # start compile and watch your dev code to dist folder  
-```
-
 Now, anytime you can keep on developing and Run your CLI
 
 ```bash
 npm start # start bundle and watch your dev code  
 ```
 
-Then, you can run your CLI 
+Then, you can run your CLI
 
 ```bash
 node . # -> node ./dist/index.js  
