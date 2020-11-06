@@ -24,7 +24,6 @@ Eazy to Release and Publish your CLI app .
 - [x] lint-staged support
 - [X] [Conventional commit](https://github.com/streamich/git-cz) by `git-cz`
 - [X] [standard-version](https://www.npmjs.com/package/standard-version?activeTab=versions) support by `npm run release`
-- [X] github Actions
 - [X] Format on Save ( Vscode Editor )
 - [X] Travis CI & Code coverage by custom configration
 
@@ -62,7 +61,7 @@ At this point, your new app is ready and is all setup for local development.
 
 ## Development
 
-Now, anytime you can keep on developing and Run your CLI
+Now, anytime you can keep on developing
 
 ```bash
 npm start # start bundle and watch your dev code  
